@@ -9,7 +9,7 @@
 ✅ 真正的微信原生弹窗 + 声音提醒  
 ✅ 支持多用户  
 ✅ 跳转稳定  
-✅ 可无限换皮肤 (使用项目[wxpushSkin](https://github.com/frankiejun/wxpushSkin))
+✅ 可无限换皮肤 (使用项目[wxpushSkin](https://github.com/frankiejun/wxpushSkin))  
 ✅ 支持docker部署
 
 ## 🎬 视频教学
